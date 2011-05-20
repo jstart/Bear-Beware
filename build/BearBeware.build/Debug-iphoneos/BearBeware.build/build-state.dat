@@ -1,0 +1,440 @@
+TBearBeware
+v7
+r1
+cCheck dependencies
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/CMakeLists.txt
+c00000000498324E900000000000003CD
+t1233331433
+s973
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/NameEntryViewController.xib
+c000000004A6BA5590000000000003E56
+t1248568665
+s15958
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/WebViewController.xib
+c000000004A9CA3EE0000000000002B47
+t1251779566
+s11079
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Images/Default.png
+c000000004A85020A0000000000011DF4
+t1250230794
+s73204
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Images/bitmapFont.fnt
+c000000004A4DAED000000000000005ED
+t1246605008
+s1517
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Images/bitmapFont.png
+c000000004A80E6B90000000000001932
+t1249961657
+s6450
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Images/changePlayerButton.png
+c000000004A7FBFA00000000000002E41
+t1249886112
+s11841
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Images/icon.png
+c000000004A8007EC0000000000001534
+t1249904620
+s5428
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Images/playAgainButton.png
+c000000004A7FBEDB0000000000004DE9
+t1249885915
+s19945
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Images/scoreBackground.png
+c000000004A9C982D0000000000000371
+t1251776557
+s881
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/back_button.png
+c000000004A85128E0000000000001D7E
+t1250235022
+s7550
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/ball-1.png
+c000000004A7E8B5D0000000000001336
+t1249807197
+s4918
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/ball-2.png
+c000000004A80F66E0000000000001318
+t1249965678
+s4888
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/bearbeware_instructions.png
+c000000004A85AE20000000000002A963
+t1250274848
+s174435
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/bearbeware_menu.png
+c000000004A850169000000000002554B
+t1250230633
+s152907
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/bonusLife.png
+c000000004A823FE2000000000000141C
+t1250050018
+s5148
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/bonusShield.png
+c000000004A823FF9000000000000162C
+t1250050041
+s5676
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/bonusSpeedDown.png
+c000000004A823FCF00000000000012AC
+t1250049999
+s4780
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/bonusSpeedUp.png
+c000000004A823FBE00000000000012F9
+t1250049982
+s4857
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/CMakeLists.txt
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/Default.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/Illegal.wav
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/Info.plist
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/NameEntryViewController.nib
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/PkgInfo
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/WebViewController.nib
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/back_button.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/ball-1.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/ball-2.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/bearbeware_instructions.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/bearbeware_menu.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/bitmapFont.fnt
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/bitmapFont.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/bonusLife.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/bonusShield.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/bonusSpeedDown.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/bonusSpeedUp.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/changePlayerButton.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/fanfare1.wav
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/fire.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/honey_pot.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/honey_pot1.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/honey_pot2.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/honey_pot3.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/icon.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/instructions_button.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/march.mp3
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/menu.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/playAgainButton.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/play_button.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/scoreBackground.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/scores_button.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/slurp.wav
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/sprites.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/tweetScore.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/fire.png
+c000000004A7E8B5D0000000000001336
+t1249807197
+s4918
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/honey_pot.png
+c000000004A7FAFD400000000000006A2
+t1249882068
+s1698
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/honey_pot1.png
+c000000004A80F399000000000000124E
+t1249964953
+s4686
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/honey_pot2.png
+c000000004A80F3AC0000000000001242
+t1249964972
+s4674
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/honey_pot3.png
+c000000004A80F3C600000000000011B5
+t1249964998
+s4533
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/instructions_button.png
+c000000004A8506BE00000000000031FC
+t1250231998
+s12796
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/march.mp3
+c000000004A4AE094000000000003DB1E
+t1246421140
+s252702
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/menu.png
+c000000004A9564E70000000000000BD2
+t1251304679
+s3026
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/play_button.png
+c000000004A808F00000000000000463B
+t1249939200
+s17979
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/scores_button.png
+c000000004A850E9100000000000024C8
+t1250234001
+s9416
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/sounds/Illegal.wav
+c00000000412448B400000000000012AA
+t1092896948
+s4778
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/sounds/fanfare1.wav
+c00000000468069FC0000000000014E52
+t1182820860
+s85586
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/sounds/slurp.wav
+c00000000454E91F00000000000000A9E
+t1162777072
+s2718
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/sprites.png
+c000000004A9DB2B5000000000003B782
+t1251848885
+s243586
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/tweetScore.png
+c000000004A7F86F50000000000002223
+t1249871605
+s8739
+
+NInfo.plist
+c000000004AAC18B8000000000000036C
+t1252792504
+s876
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314914691#314914691#0(318"[BEROR]error: There is no SDK with the name or path 'iphoneos2.2.1'[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain[BWARN]warning: Build setting "iOS Deployment Target" should not be empty (current IPHONEOS_DEPLOYMENT_TARGET = "").3(4@60"error: There is no SDK with the name or path 'iphoneos2.2.1'314914691#18446744073709551615#0#0(1@0"0(4@125"Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain314914691#18446744073709551615#0#0(1@0"0(22@109"warning: Build setting "iOS Deployment Target" should not be empty (current IPHONEOS_DEPLOYMENT_TARGET = "").314914691#18446744073709551615#0#0(1@0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileXIB "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/NameEntryViewController.xib"
+r0
+
+CCompileXIB "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/WebViewController.xib"
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/Default.png" Images/Default.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/back_button.png" back_button.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/ball-1.png" ball-1.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/ball-2.png" ball-2.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/bearbeware_instructions.png" bearbeware_instructions.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/bearbeware_menu.png" bearbeware_menu.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/bitmapFont.png" Images/bitmapFont.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/bonusLife.png" bonusLife.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/bonusShield.png" bonusShield.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/bonusSpeedDown.png" bonusSpeedDown.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/bonusSpeedUp.png" bonusSpeedUp.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/changePlayerButton.png" Images/changePlayerButton.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/fire.png" fire.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/honey_pot.png" honey_pot.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/honey_pot1.png" honey_pot1.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/honey_pot2.png" honey_pot2.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/honey_pot3.png" honey_pot3.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/icon.png" Images/icon.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/instructions_button.png" instructions_button.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/menu.png" menu.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/playAgainButton.png" Images/playAgainButton.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/play_button.png" play_button.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/scoreBackground.png" Images/scoreBackground.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/scores_button.png" scores_button.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/sprites.png" sprites.png
+r0
+
+CCopyPNGFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/tweetScore.png" tweetScore.png
+r0
+
+CCpResource build/Debug-iphoneos/BearBeware.app/CMakeLists.txt Chipmunk/src/CMakeLists.txt
+r0
+
+CCpResource build/Debug-iphoneos/BearBeware.app/Illegal.wav sounds/Illegal.wav
+r0
+
+CCpResource build/Debug-iphoneos/BearBeware.app/bitmapFont.fnt Images/bitmapFont.fnt
+r0
+
+CCpResource build/Debug-iphoneos/BearBeware.app/fanfare1.wav sounds/fanfare1.wav
+r0
+
+CCpResource build/Debug-iphoneos/BearBeware.app/march.mp3 march.mp3
+r0
+
+CCpResource build/Debug-iphoneos/BearBeware.app/slurp.wav sounds/slurp.wav
+r0
+
+CProcessInfoPlistFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app/Info.plist" Info.plist
+r0
+
+CTouch "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Debug-iphoneos/BearBeware.app"
+r0
+

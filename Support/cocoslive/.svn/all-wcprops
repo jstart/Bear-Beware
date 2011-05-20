@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ABC123/!svn/ver/2/trunk/ABC123/Support/cocoslive
+END
+ScoreServerRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ABC123/!svn/ver/2/trunk/ABC123/Support/cocoslive/ScoreServerRequest.h
+END
+cocoslive.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ABC123/!svn/ver/2/trunk/ABC123/Support/cocoslive/cocoslive.m
+END
+ScoreServerPost.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ABC123/!svn/ver/2/trunk/ABC123/Support/cocoslive/ScoreServerPost.m
+END
+ScoreServerRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ABC123/!svn/ver/2/trunk/ABC123/Support/cocoslive/ScoreServerRequest.m
+END
+cocoslive.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ABC123/!svn/ver/2/trunk/ABC123/Support/cocoslive/cocoslive.h
+END
+ScoreServerPost.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ABC123/!svn/ver/2/trunk/ABC123/Support/cocoslive/ScoreServerPost.h
+END

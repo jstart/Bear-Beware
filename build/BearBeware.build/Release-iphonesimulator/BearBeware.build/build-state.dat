@@ -1,0 +1,2678 @@
+TBearBeware
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D122C580000000000000110
+t1293036632
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC128840000000000000733
+t1287727236
+s1843
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC1222F0000000000000A23
+t1287725615
+s2595
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+c000000004CC121DB00000000000022F0
+t1287725531
+s8944
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC127E80000000000074190
+t1287727080
+s475536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004CC12308000000000000094F
+t1287725832
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004CC123080000000000000A61
+t1287725832
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004CC123080000000000009369
+t1287725832
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004CC123080000000000003C4A
+t1287725832
+s15434
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004CC1230E0000000000019D40
+t1287725838
+s105792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SCNetworkReachability.h
+c000000004CC121E8000000000000353E
+t1287725544
+s13630
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004CC121F60000000000068970
+t1287725558
+s428400
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004A11E8210000000000002407
+t1242687521
+s9223
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/assert.h
+c000000004CB3E4860000000000000DCB
+t1286857862
+s3531
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/mach/mach_time.h
+c000000004CBFACAC0000000000000746
+t1287629996
+s1862
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netinet/in.h
+c000000004CBFACA90000000000005462
+t1287629993
+s21602
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/objc/objc.h
+c000000004CB935700000000000000A2F
+t1287206256
+s2607
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdio.h
+c000000004CB3E48600000000000040AC
+t1286857862
+s16556
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4860000000000002DF5
+t1286857862
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h
+c000000004CB3E4860000000000001731
+t1286857862
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/time.h
+c000000004CBFACAC0000000000001E17
+t1287629996
+s7703
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/float.h
+c000000004A1198340000000000001538
+t1242667060
+s5432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004A11983400000000000010DD
+t1242667060
+s4317
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/BearBeware_Prefix.pch
+c000000004A4DAED00000000000000051
+t1246605008
+s81
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/CDataScanner.h
+c0000000049B9BE740000000000000946
+t1236909684
+s2374
+i<Foundation/Foundation.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/CDataScanner.m
+c0000000049B9BE74000000000000165F
+t1236909684
+s5727
+i"CDataScanner.h"
+i"CDataScanner_Extensions.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/CDataScanner_Extensions.h
+c0000000049B9BE740000000000000598
+t1236909684
+s1432
+i"CDataScanner.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/CDataScanner_Extensions.m
+c0000000049B9BE7400000000000009D4
+t1236909684
+s2516
+i"CDataScanner_Extensions.h"
+i"NSCharacterSet_Extensions.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/CJSONDeserializer.h
+c0000000049B9BE740000000000000766
+t1236909684
+s1894
+i<Foundation/Foundation.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/CJSONDeserializer.m
+c0000000049B9BE7400000000000009C2
+t1236909684
+s2498
+i"CJSONDeserializer.h"
+i"CJSONScanner.h"
+i"CDataScanner.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/CJSONScanner.h
+c0000000049B9BE740000000000000700
+t1236909684
+s1792
+i"CDataScanner.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/CJSONScanner.m
+c0000000049B9BE7400000000000038D4
+t1236909684
+s14548
+i"CJSONScanner.h"
+i"NSCharacterSet_Extensions.h"
+i"CDataScanner_Extensions.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/CJSONSerializer.h
+c0000000049B9BE74000000000000066A
+t1236909684
+s1642
+i<Foundation/Foundation.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/CJSONSerializer.m
+c0000000049B9BE7400000000000016F0
+t1236909684
+s5872
+i"CJSONSerializer.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/CMakeLists.txt
+c00000000498324E900000000000003CD
+t1233331433
+s973
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/chipmunk.c
+c00000000498324E900000000000007DD
+t1233331433
+s2013
+i"stdlib.h"
+i"chipmunk.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/chipmunk.h
+c00000000498324E9000000000000096F
+t1233331433
+s2415
+i"cpVect.h"
+i"cpBB.h"
+i"cpBody.h"
+i"cpArray.h"
+i"cpHashSet.h"
+i"cpSpaceHash.h"
+i"cpShape.h"
+i"cpPolyShape.h"
+i"cpArbiter.h"
+i"cpCollision.h"
+i"cpJoint.h"
+i"cpSpace.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpArbiter.c
+c00000000498324E90000000000001ACC
+t1233331433
+s6860
+i<stdlib.h>
+i<math.h>
+i"chipmunk.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpArbiter.h
+c00000000498324E90000000000000CA5
+t1233331433
+s3237
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpArray.c
+c00000000498324E900000000000009C1
+t1233331433
+s2497
+i<stdlib.h>
+i<string.h>
+i"chipmunk.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpArray.h
+c00000000498324E900000000000006E3
+t1233331433
+s1763
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpBB.c
+c00000000498324E9000000000000067E
+t1233331433
+s1662
+i<math.h>
+i"chipmunk.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpBB.h
+c00000000498324E90000000000000766
+t1233331433
+s1894
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpBody.c
+c00000000498324E9000000000000116B
+t1233331433
+s4459
+i<stdlib.h>
+i<math.h>
+i<float.h>
+i"chipmunk.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpBody.h
+c00000000498324E90000000000001266
+t1233331433
+s4710
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpCollision.c
+c00000000498324E90000000000002B86
+t1233331433
+s11142
+i<stdlib.h>
+i<math.h>
+i<stdio.h>
+i<assert.h>
+i"chipmunk.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpCollision.h
+c00000000498324E900000000000004DF
+t1233331433
+s1247
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpHashSet.c
+c00000000498324E900000000000013B4
+t1233331433
+s5044
+i<stdlib.h>
+i<assert.h>
+i"chipmunk.h"
+i"prime.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpHashSet.h
+c00000000498324E90000000000000D2D
+t1233331433
+s3373
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpJoint.c
+c00000000498324E90000000000003713
+t1233331433
+s14099
+i<stdlib.h>
+i<math.h>
+i"chipmunk.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpJoint.h
+c00000000498324E90000000000000D33
+t1233331433
+s3379
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpPolyShape.c
+c00000000498324E90000000000000E94
+t1233331433
+s3732
+i<stdlib.h>
+i<stdio.h>
+i<math.h>
+i"chipmunk.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpPolyShape.h
+c00000000498324E90000000000000B0E
+t1233331433
+s2830
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpShape.c
+c00000000498324E90000000000001536
+t1233331433
+s5430
+i<stdlib.h>
+i<assert.h>
+i<stdio.h>
+i"chipmunk.h"
+i"math.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpShape.h
+c00000000498324E90000000000001185
+t1233331433
+s4485
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpSpace.c
+c00000000498324E900000000000037C4
+t1233331433
+s14276
+i<stdlib.h>
+i<stdio.h>
+i<math.h>
+i<assert.h>
+i"chipmunk.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpSpace.h
+c00000000498324E900000000000011E4
+t1233331433
+s4580
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpSpaceHash.c
+c00000000498324E90000000000002811
+t1233331433
+s10257
+i<stdlib.h>
+i<stdio.h>
+i<math.h>
+i<assert.h>
+i"chipmunk.h"
+i"prime.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpSpaceHash.h
+c00000000498324E90000000000000FBC
+t1233331433
+s4028
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpVect.c
+c00000000498324E9000000000000066E
+t1233331433
+s1646
+i"stdio.h"
+i"math.h"
+i"chipmunk.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpVect.h
+c0000000049BABCAD0000000000000B0C
+t1236974765
+s2828
+i<CoreGraphics/CGGeometry.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/prime.h
+c00000000498324E90000000000000828
+t1233331433
+s2088
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/AppDelegate.h
+c000000004A9DA4A80000000000000328
+t1251845288
+s808
+i"cocos2d.h"
+i"Game.h"
+i"Main.h"
+i"MenuScene.h"
+i"WebViewController.h"
+i"NameEntryViewController.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/AppDelegate.m
+c000000004A9DAA3600000000000010A3
+t1251846710
+s4259
+i"AppDelegate.h"
+i"SlidingMessageViewController.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/DataManager.h
+c000000004A9DB44E00000000000003CF
+t1251849294
+s975
+i<Foundation/Foundation.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/DataManager.m
+c000000004A9DB32C0000000000001942
+t1251849004
+s6466
+i"DataManager.h"
+i<SystemConfiguration/SCNetworkReachability.h>
+i<netinet/in.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/Game.h
+c000000004A9DAE1B00000000000007B2
+t1251847707
+s1970
+i"cocos2d.h"
+i"Main.h"
+i"chipmunk.h"
+i"Target.h"
+i<AudioToolbox/AudioToolbox.h>
+i<AVFoundation/AVFoundation.h>
+i"AppDelegate.h"
+i"DataManager.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/Game.m
+c000000004AA99007000000000000522A
+t1252626439
+s21034
+i"Game.h"
+i"Main.h"
+i"Highscores.h"
+i"chipmunk.h"
+i"RockExplosion.h"
+i"Target.h"
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/Highscores.h
+c000000004A9DB38A0000000000000263
+t1251849098
+s611
+i"cocos2d.h"
+i"Main.h"
+i"DataManager.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/Highscores.m
+c000000004AA98EDF00000000000032CB
+t1252626143
+s13003
+i"Highscores.h"
+i"Main.h"
+i"Game.h"
+i"TwitterRequest.h"
+i"AppDelegate.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/Instructions.h
+c000000004A85117C000000000000015A
+t1250234748
+s346
+i"cocos2d.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/Instructions.m
+c000000004A95634900000000000004CF
+t1251304265
+s1231
+i"Instructions.h"
+i"MenuLayer.h"
+i"MenuScene.h"
+i"chipmunk.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/Main.h
+c000000004A84781300000000000001A8
+t1250195475
+s424
+i"cocos2d.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/Main.m
+c000000004A9DE1030000000000000DD0
+t1251860739
+s3536
+i"Main.h"
+i<mach/mach_time.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/MenuLayer.h
+c000000004A8502CA0000000000000157
+t1250230986
+s343
+i"cocos2d.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/MenuLayer.m
+c000000004D1502D000000000000007AD
+t1293222608
+s1965
+i"MenuLayer.h"
+i"chipmunk.h"
+i"MenuScene.h"
+i"Game.h"
+i"Instructions.h"
+i"Highscores.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/MenuScene.h
+c000000004A84FFA4000000000000014C
+t1250230180
+s332
+i"cocos2d.h"
+i"Scene.h"
+i"MenuLayer.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/MenuScene.m
+c000000004A84FFFE000000000000023F
+t1250230270
+s575
+i"MenuScene.h"
+i"cocos2d.h"
+i"MenuLayer.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/NameEntryViewController.h
+c000000004A6BA5620000000000000381
+t1248568674
+s897
+i<UIKit/UIKit.h>
+i"DataManager.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/NameEntryViewController.m
+c000000004AA98E7C000000000000122A
+t1252626044
+s4650
+i"NameEntryViewController.h"
+i"DataManager.h"
+i"cocoslive.h"
+i"cocos2d.h"
+i"Highscores.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/NameEntryViewController.xib
+c000000004A6BA5590000000000003E56
+t1248568665
+s15958
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/RockExplosion.h
+c000000004A7743A300000000000000B6
+t1249330083
+s182
+i"PointParticleSystem.h"
+i"QuadParticleSystem.h"
+i"Cocos2d.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/RockExplosion.m
+c000000004A9DE404000000000000058E
+t1251861508
+s1422
+i"RockExplosion.h"
+i"TextureMgr.h"
+i"Director.h"
+i"Cocos2d.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/SlidingMessageViewController.h
+c000000004A772CD00000000000000153
+t1249324240
+s339
+i<UIKit/UIKit.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/SlidingMessageViewController.m
+c000000004A85C8540000000000000E09
+t1250281556
+s3593
+i"SlidingMessageViewController.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/Target.h
+c000000004A7A58D00000000000000282
+t1249532112
+s642
+i<Foundation/Foundation.h>
+i"chipmunk.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/Target.m
+c000000004A954AA800000000000003FF
+t1251297960
+s1023
+i"target.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/TwitterRequest.h
+c000000004A55271E00000000000003C4
+t1247094558
+s964
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/TwitterRequest.m
+c000000004A552F0C0000000000001252
+t1247096588
+s4690
+i"TwitterRequest.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/WebViewController.h
+c000000004A6BA56200000000000003D2
+t1248568674
+s978
+i<UIKit/UIKit.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/WebViewController.m
+c000000004A9CA1AF0000000000000BB7
+t1251778991
+s2999
+i"WebViewController.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/WebViewController.xib
+c000000004A9CA3EE0000000000002B47
+t1251779566
+s11079
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Images/Default.png
+c000000004A85020A0000000000011DF4
+t1250230794
+s73204
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Images/bitmapFont.fnt
+c000000004A4DAED000000000000005ED
+t1246605008
+s1517
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Images/bitmapFont.png
+c000000004A80E6B90000000000001932
+t1249961657
+s6450
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Images/changePlayerButton.png
+c000000004A7FBFA00000000000002E41
+t1249886112
+s11841
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Images/icon.png
+c000000004A8007EC0000000000001534
+t1249904620
+s5428
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Images/playAgainButton.png
+c000000004A7FBEDB0000000000004DE9
+t1249885915
+s19945
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Images/scoreBackground.png
+c000000004A9C982D0000000000000371
+t1251776557
+s881
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/NSCharacterSet_Extensions.h
+c0000000049B9BE740000000000000565
+t1236909684
+s1381
+i<Foundation/Foundation.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/NSCharacterSet_Extensions.m
+c0000000049B9BE74000000000000071C
+t1236909684
+s1820
+i"NSCharacterSet_Extensions.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/NSDictionary_JSONExtensions.h
+c0000000049B9BE740000000000000583
+t1236909684
+s1411
+i<Foundation/Foundation.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/NSDictionary_JSONExtensions.m
+c0000000049B9BE7400000000000005FE
+t1236909684
+s1534
+i"NSDictionary_JSONExtensions.h"
+i"CJSONDeserializer.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/NSScanner_Extensions.h
+c0000000049B9BE740000000000000641
+t1236909684
+s1601
+i<Foundation/Foundation.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/NSScanner_Extensions.m
+c0000000049B9BE740000000000000D50
+t1236909684
+s3408
+i"NSScanner_Extensions.h"
+i"NSCharacterSet_Extensions.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/ScoreServerPost.h
+c000000004A8B34DC0000000000000D12
+t1250637020
+s3346
+i<UIKit/UIKit.h>
+i<CommonCrypto/CommonDigest.h>
+i"cocoslive.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/ScoreServerPost.m
+c000000004A5F5F6C00000000000024CB
+t1247764332
+s9419
+i"ScoreServerPost.h"
+i"ccMacros.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/ScoreServerRequest.h
+c000000004A8040030000000000000D1D
+t1249918979
+s3357
+i<UIKit/UIKit.h>
+i"cocoslive.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/ScoreServerRequest.m
+c000000004A8040030000000000001B94
+t1249918979
+s7060
+i"CJSONDeserializer.h"
+i"ScoreServerPost.h"
+i"ScoreServerRequest.h"
+i"ccMacros.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Action.h
+c000000004A4DAED00000000000000B68
+t1246605008
+s2920
+i<UIKit/UIKit.h>
+i<sys/time.h>
+i"ccTypes.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Action.m
+c000000004A4DAED00000000000000C96
+t1246605008
+s3222
+i"Action.h"
+i"CocosNode.h"
+i"ccMacros.h"
+i"IntervalAction.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/AtlasNode.h
+c000000004A4DAED000000000000007DD
+t1246605008
+s2013
+i"TextureAtlas.h"
+i"CocosNode.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/AtlasNode.m
+c000000004A4DAED00000000000000C34
+t1246605008
+s3124
+i"AtlasNode.h"
+i"ccMacros.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/AtlasSprite.h
+c000000004A4DAED00000000000001253
+t1246605008
+s4691
+i"CocosNode.h"
+i"TextureAtlas.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/AtlasSprite.m
+c000000004A4DAED00000000000002B10
+t1246605008
+s11024
+i"AtlasSpriteManager.h"
+i"AtlasSprite.h"
+i"Support/CGPointExtension.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/AtlasSpriteManager.h
+c000000004A4DAED00000000000000A32
+t1246605008
+s2610
+i"CocosNode.h"
+i"TextureAtlas.h"
+i"ccMacros.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/AtlasSpriteManager.m
+c000000004A4DAED00000000000001C80
+t1246605008
+s7296
+i"AtlasSprite.h"
+i"AtlasSpriteManager.h"
+i"Grid.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/BitmapFontAtlas.h
+c000000004A4DAED00000000000000B09
+t1246605008
+s2825
+i"AtlasNode.h"
+i"AtlasSpriteManager.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/BitmapFontAtlas.m
+c000000004A4DAED00000000000002B7A
+t1246605008
+s11130
+i"BitmapFontAtlas.h"
+i"AtlasSprite.h"
+i"Support/FileUtils.h"
+i"Support/CGPointExtension.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Camera.h
+c000000004A4DAED0000000000000068C
+t1246605008
+s1676
+i<UIKit/UIKit.h>
+i"CocosNode.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Camera.m
+c000000004A4DAED00000000000000A7B
+t1246605008
+s2683
+i"Director.h"
+i"Camera.h"
+i"ccMacros.h"
+i"Support/glu.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/CameraAction.h
+c000000004A4DAED00000000000000658
+t1246605008
+s1624
+i"IntervalAction.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/CameraAction.m
+c000000004A4DAED00000000000000C47
+t1246605008
+s3143
+i"CameraAction.h"
+i"CocosNode.h"
+i"Camera.h"
+i"ccMacros.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/CocosNode.h
+c000000004A4DAED0000000000000331D
+t1246605008
+s13085
+i<OpenGLES/ES1/gl.h>
+i"Action.h"
+i"cctypes.h"
+i"Support/Texture2D.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/CocosNode.m
+c000000004A4DAED000000000000046EB
+t1246605008
+s18155
+i"CocosNode.h"
+i"Camera.h"
+i"Grid.h"
+i"Scheduler.h"
+i"ccMacros.h"
+i"Director.h"
+i"Support/CGPointExtension.h"
+i"Support/ccArray.h"
+i"Support/TransformUtils.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Director.h
+c000000004A4DAED00000000000001FE7
+t1246605008
+s8167
+i"ccTypes.h"
+i"Support/EAGLView.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Director.m
+c000000004A4DAED000000000000058B8
+t1246605008
+s22712
+i"Director.h"
+i"TouchDispatcher.h"
+i"Camera.h"
+i"Scheduler.h"
+i"LabelAtlas.h"
+i"ccMacros.h"
+i"ccExceptions.h"
+i"Transition.h"
+i"Scene.h"
+i"Support/glu.h"
+i"Support/OpenGL_Internal.h"
+i"Support/Texture2D.h"
+i"Support/CGPointExtension.h"
+i"Layer.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/EaseAction.h
+c000000004A4DAED000000000000007A2
+t1246605008
+s1954
+i"IntervalAction.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/EaseAction.m
+c000000004A4DAED00000000000000EFD
+t1246605008
+s3837
+i"EaseAction.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Grabber.h
+c000000004A4DAED000000000000002C0
+t1246605008
+s704
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<UIKit/UIKit.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Grabber.m
+c000000004A4DAED00000000000000686
+t1246605008
+s1670
+i"Grabber.h"
+i"ccMacros.h"
+i"Support/Texture2D.h"
+i"Support/OpenGL_Internal.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Grid.h
+c000000004A4DAED00000000000000A35
+t1246605008
+s2613
+i<UIKit/UIKit.h>
+i"CocosNode.h"
+i"Camera.h"
+i"ccTypes.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Grid.m
+c000000004A4DAED000000000000029BD
+t1246605008
+s10685
+i"ccMacros.h"
+i"Grid.h"
+i"Texture2D.h"
+i"Director.h"
+i"Grabber.h"
+i"Support/glu.h"
+i"Support/CGPointExtension.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Grid3DAction.h
+c000000004A4DAED00000000000001504
+t1246605008
+s5380
+i"GridAction.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Grid3DAction.m
+c000000004A4DAED00000000000002B7A
+t1246605008
+s11130
+i"Grid3DAction.h"
+i"Support/CGPointExtension.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/GridAction.h
+c000000004A4DAED000000000000010BD
+t1246605008
+s4285
+i<UIKit/UIKit.h>
+i"IntervalAction.h"
+i"InstantAction.h"
+i"Grid.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/GridAction.m
+c000000004A4DAED00000000000001796
+t1246605008
+s6038
+i"GridAction.h"
+i"Director.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/InstantAction.h
+c000000004A4DAED00000000000000810
+t1246605008
+s2064
+i<UIKit/UIKit.h>
+i"Action.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/InstantAction.m
+c000000004A4DAED00000000000000DA1
+t1246605008
+s3489
+i"InstantAction.h"
+i"CocosNode.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/IntervalAction.h
+c000000004A4DAED00000000000002B61
+t1246605008
+s11105
+i"CocosNode.h"
+i"Action.h"
+i<sys/time.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/IntervalAction.m
+c000000004A4DAED0000000000000543A
+t1246605008
+s21562
+i"IntervalAction.h"
+i"Sprite.h"
+i"CocosNode.h"
+i"Support/CGPointExtension.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Label.h
+c000000004A4DAED000000000000006ED
+t1246605008
+s1773
+i<UIKit/UIKit.h>
+i"Support/Texture2D.h"
+i"TextureNode.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Label.m
+c000000004A4DAED000000000000008D4
+t1246605008
+s2260
+i"Label.h"
+i"Support/CGPointExtension.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/LabelAtlas.h
+c000000004A4DAED0000000000000063B
+t1246605008
+s1595
+i"AtlasNode.h"
+i"TextureAtlas.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/LabelAtlas.m
+c000000004A4DAED00000000000000D00
+t1246605008
+s3328
+i"LabelAtlas.h"
+i"ccMacros.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Layer.h
+c000000004A4DAED00000000000000DDE
+t1246605008
+s3550
+i<UIKit/UIKit.h>
+i"CocosNode.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Layer.m
+c000000004A4DAED00000000000001856
+t1246605008
+s6230
+i<OpenGLES/ES1/gl.h>
+i<stdarg.h>
+i"Layer.h"
+i"Director.h"
+i"ccMacros.h"
+i"Support/CGPointExtension.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Menu.h
+c000000004A4DAED00000000000000780
+t1246605008
+s1920
+i<UIKit/UIKit.h>
+i"MenuItem.h"
+i"Layer.h"
+i"TargetedTouchDelegate.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Menu.m
+c000000004A4DAED00000000000002803
+t1246605008
+s10243
+i"Menu.h"
+i"Director.h"
+i"TouchDispatcher.h"
+i"Support/CGPointExtension.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/MenuItem.h
+c000000004A4DAED00000000000001972
+t1246605008
+s6514
+i<UIKit/UIKit.h>
+i"CocosNode.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/MenuItem.m
+c000000004A4DAED00000000000002D4D
+t1246605008
+s11597
+i"MenuItem.h"
+i"Label.h"
+i"LabelAtlas.h"
+i"IntervalAction.h"
+i"Sprite.h"
+i"Support/CGPointExtension.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/ParallaxNode.h
+c000000004A4DAED0000000000000038C
+t1246605008
+s908
+i"CocosNode.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/ParallaxNode.m
+c000000004A4DAED00000000000000A0E
+t1246605008
+s2574
+i"ParallaxNode.h"
+i"Support/CGPointExtension.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/ParticleExamples.h
+c000000004A4DAED00000000000000551
+t1246605008
+s1361
+i"PointParticleSystem.h"
+i"QuadParticleSystem.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/ParticleExamples.m
+c000000004A4DAED00000000000003A82
+t1246605008
+s14978
+i"ParticleExamples.h"
+i"TextureMgr.h"
+i"Director.h"
+i"Support/CGPointExtension.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/ParticleSystem.h
+c000000004A4DAED00000000000001B61
+t1246605008
+s7009
+i<UIKit/UIKit.h>
+i"CocosNode.h"
+i"ccTypes.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/ParticleSystem.m
+c000000004A4DAED00000000000001432
+t1246605008
+s5170
+i<OpenGLES/ES1/gl.h>
+i"ParticleSystem.h"
+i"Primitives.h"
+i"TextureMgr.h"
+i"ccMacros.h"
+i"Support/OpenGL_Internal.h"
+i"Support/CGPointExtension.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/PointParticleSystem.h
+c000000004A4DAED00000000000000393
+t1246605008
+s915
+i"ParticleSystem.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/PointParticleSystem.m
+c000000004A4DAED00000000000001795
+t1246605008
+s6037
+i<OpenGLES/ES1/gl.h>
+i"PointParticleSystem.h"
+i"TextureMgr.h"
+i"ccMacros.h"
+i"Support/OpenGL_Internal.h"
+i"Support/CGPointExtension.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Primitives.h
+c000000004A4DAED00000000000000607
+t1246605008
+s1543
+i<CoreGraphics/CGGeometry.h>
+i<objc/objc.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Primitives.m
+c000000004A4DAED0000000000000090D
+t1246605008
+s2317
+i<OpenGLES/ES1/gl.h>
+i<math.h>
+i<stdlib.h>
+i<string.h>
+i"Primitives.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/QuadParticleSystem.h
+c000000004A4DAED00000000000000438
+t1246605008
+s1080
+i"ParticleSystem.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/QuadParticleSystem.m
+c000000004A4DAED00000000000001E9D
+t1246605008
+s7837
+i<OpenGLES/ES1/gl.h>
+i"QuadParticleSystem.h"
+i"TextureMgr.h"
+i"ccMacros.h"
+i"Support/OpenGL_Internal.h"
+i"Support/CGPointExtension.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Scene.h
+c000000004A4DAED00000000000000360
+t1246605008
+s864
+i<UIKit/UIKit.h>
+i"CocosNode.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Scene.m
+c000000004A4DAED000000000000002B1
+t1246605008
+s689
+i"Scene.h"
+i"Director.h"
+i"Support/CGPointExtension.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Scheduler.h
+c000000004A4DAED000000000000006EC
+t1246605008
+s1772
+i<UIKit/UIKit.h>
+i"ccTypes.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Scheduler.m
+c000000004A4DAED000000000000011E4
+t1246605008
+s4580
+i"Scheduler.h"
+i"ccMacros.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Sprite.h
+c000000004A4DAED00000000000000C9B
+t1246605008
+s3227
+i<UIKit/UIKit.h>
+i"Support/Texture2D.h"
+i"TextureNode.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Sprite.m
+c000000004A4DAED0000000000000135A
+t1246605008
+s4954
+i"TextureMgr.h"
+i"Sprite.h"
+i"ccMacros.h"
+i"Support/CGPointExtension.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/CGPointExtension.h
+c000000004A4DAED000000000000013CB
+t1246605008
+s5067
+i<CoreGraphics/CGGeometry.h>
+i<math.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/CGPointExtension.m
+c000000004A4DAED00000000000000628
+t1246605008
+s1576
+i"stdio.h"
+i"math.h"
+i"CGPointExtension.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/EAGLView.h
+c000000004A4DAED00000000000001628
+t1246605008
+s5672
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/EAGLView.m
+c000000004A4DAED00000000000002675
+t1246605008
+s9845
+i<QuartzCore/QuartzCore.h>
+i"EAGLView.h"
+i"OpenGL_Internal.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/FileUtils.h
+c000000004A4DAED00000000000000259
+t1246605008
+s601
+i<Foundation/Foundation.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/FileUtils.m
+c000000004A4DAED000000000000003BF
+t1246605008
+s959
+i"FileUtils.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/OpenGL_Internal.h
+c000000004A4DAED0000000000000111D
+t1246605008
+s4381
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/PVRTexture.h
+c000000004A4DAED00000000000000C67
+t1246605008
+s3175
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/PVRTexture.m
+c000000004A4DAED00000000000001D0D
+t1246605008
+s7437
+i"PVRTexture.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/TGAlib.h
+c000000004A4DAED00000000000000444
+t1246605008
+s1092
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/TGAlib.m
+c000000004A4DAED00000000000001AA0
+t1246605008
+s6816
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i"TGAlib.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/Texture2D.h
+c000000004A4DAED0000000000000220C
+t1246605008
+s8716
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/Texture2D.m
+c000000004A4DAED00000000000004190
+t1246605008
+s16784
+i<OpenGLES/ES1/glext.h>
+i"Texture2D.h"
+i"PVRTexture.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/TransformUtils.h
+c000000004A4DAED0000000000000021F
+t1246605008
+s543
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/TransformUtils.m
+c000000004A4DAED0000000000000042B
+t1246605008
+s1067
+i"TransformUtils.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/UIColor-OpenGL.h
+c000000004A4DAED000000000000003E8
+t1246605008
+s1000
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/UIColor-OpenGL.m
+c000000004A4DAED00000000000000792
+t1246605008
+s1938
+i"UIColor-OpenGL.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/ccArray.h
+c000000004A4DAED00000000000001A52
+t1246605008
+s6738
+i<Foundation/Foundation.h>
+i<stdlib.h>
+i<string.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/glu.c
+c000000004A4DAED000000000000009A0
+t1246605008
+s2464
+i<OpenGLES/ES1/gl.h>
+i<math.h>
+i"OpenGL_Internal.h"
+i"glu.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/glu.h
+c000000004A4DAED0000000000000020E
+t1246605008
+s526
+i<OpenGLES/ES1/gl.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/TargetedTouchDelegate.h
+c000000004A4DAED00000000000000401
+t1246605008
+s1025
+i<UIKit/UIKit.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/TextureAtlas.h
+c000000004A4DAED00000000000000F26
+t1246605008
+s3878
+i"Texture2D.h"
+i"ccTypes.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/TextureAtlas.m
+c000000004A4DAED0000000000000176B
+t1246605008
+s5995
+i"TextureAtlas.h"
+i"TextureMgr.h"
+i"ccMacros.h"
+i"Support/Texture2D.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/TextureMgr.h
+c000000004A4DAED00000000000000B53
+t1246605008
+s2899
+i<UIKit/UIKit.h>
+i"Support/Texture2D.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/TextureMgr.m
+c000000004A4DAED00000000000000F4A
+t1246605008
+s3914
+i"TextureMgr.h"
+i"ccMacros.h"
+i"Support/FileUtils.h"
+i"Support/Texture2D.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/TextureNode.h
+c000000004A4DAED0000000000000047F
+t1246605008
+s1151
+i<UIKit/UIKit.h>
+i"Support/Texture2D.h"
+i"CocosNode.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/TextureNode.m
+c000000004A4DAED0000000000000078F
+t1246605008
+s1935
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"TextureMgr.h"
+i"TextureNode.h"
+i"ccMacros.h"
+i"Support/CGPointExtension.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/TileMapAtlas.h
+c000000004A4DAED00000000000000734
+t1246605008
+s1844
+i"TextureAtlas.h"
+i"AtlasNode.h"
+i"Support/TGAlib.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/TileMapAtlas.m
+c000000004A4DAED000000000000015D0
+t1246605008
+s5584
+i"TileMapAtlas.h"
+i"ccMacros.h"
+i"Support/FileUtils.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/TiledGridAction.h
+c000000004A4DAED00000000000001604
+t1246605008
+s5636
+i"GridAction.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/TiledGridAction.m
+c000000004A4DAED0000000000000377D
+t1246605008
+s14205
+i"TiledGridAction.h"
+i"Director.h"
+i"ccMacros.h"
+i"Support/CGPointExtension.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/TouchDispatcher.h
+c000000004A4DAED000000000000006BF
+t1246605008
+s1727
+i<UIKit/UIKit.h>
+i"Layer.h"
+i"TargetedTouchDelegate.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/TouchDispatcher.m
+c000000004A4DAED00000000000001388
+t1246605008
+s5000
+i"TouchDispatcher.h"
+i"TouchHandler.h"
+i"Director.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/TouchHandler.h
+c000000004A4DAED000000000000003F4
+t1246605008
+s1012
+i<UIKit/UIKit.h>
+i"TargetedTouchDelegate.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/TouchHandler.m
+c000000004A4DAED0000000000000038E
+t1246605008
+s910
+i"TouchHandler.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Transition.h
+c000000004A4DAED00000000000001AA9
+t1246605008
+s6825
+i"Scene.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Transition.m
+c000000004A4DAED00000000000004BBC
+t1246605008
+s19388
+i"Transition.h"
+i"CocosNode.h"
+i"Director.h"
+i"IntervalAction.h"
+i"InstantAction.h"
+i"CameraAction.h"
+i"Layer.h"
+i"Camera.h"
+i"TiledGridAction.h"
+i"EaseAction.h"
+i"Support/CGPointExtension.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/ccExceptions.h
+c000000004A4DAED00000000000000398
+t1246605008
+s920
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/ccMacros.h
+c000000004A4DAED00000000000000562
+t1246605008
+s1378
+i<math.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/ccTypes.h
+c000000004A8505A20000000000000C2D
+t1250231714
+s3117
+i<CoreGraphics/CGGeometry.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/cocos2d.h
+c000000004A4DAED00000000000000786
+t1246605008
+s1926
+i"Action.h"
+i"Camera.h"
+i"CameraAction.h"
+i"CocosNode.h"
+i"Director.h"
+i"TouchDispatcher.h"
+i"InstantAction.h"
+i"IntervalAction.h"
+i"EaseAction.h"
+i"Label.h"
+i"Layer.h"
+i"Menu.h"
+i"MenuItem.h"
+i"ParticleSystem.h"
+i"PointParticleSystem.h"
+i"QuadParticleSystem.h"
+i"ParticleExamples.h"
+i"Primitives.h"
+i"Scene.h"
+i"Scheduler.h"
+i"Sprite.h"
+i"TextureMgr.h"
+i"TextureNode.h"
+i"Transition.h"
+i"TextureAtlas.h"
+i"LabelAtlas.h"
+i"TileMapAtlas.h"
+i"AtlasNode.h"
+i"EaseAction.h"
+i"TiledGridAction.h"
+i"Grabber.h"
+i"Grid.h"
+i"Grid3DAction.h"
+i"GridAction.h"
+i"AtlasSprite.h"
+i"AtlasSpriteManager.h"
+i"BitmapFontAtlas.h"
+i"ParallaxNode.h"
+i"ccTypes.h"
+i"ccMacros.h"
+i"Support/OpenGL_Internal.h"
+i"Support/Texture2D.h"
+i"Support/EAGLView.h"
+i"Support/FileUtils.h"
+i"Support/CGPointExtension.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/cocos2d.m
+c000000004A4DAED000000000000001EC
+t1246605008
+s492
+i<UIKit/UIKit.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/back_button.png
+c000000004A85128E0000000000001D7E
+t1250235022
+s7550
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/ball-1.png
+c000000004A7E8B5D0000000000001336
+t1249807197
+s4918
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/ball-2.png
+c000000004A80F66E0000000000001318
+t1249965678
+s4888
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/bearbeware_instructions.png
+c000000004A85AE20000000000002A963
+t1250274848
+s174435
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/bearbeware_menu.png
+c000000004A850169000000000002554B
+t1250230633
+s152907
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/bonusLife.png
+c000000004A823FE2000000000000141C
+t1250050018
+s5148
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/bonusShield.png
+c000000004A823FF9000000000000162C
+t1250050041
+s5676
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/bonusSpeedDown.png
+c000000004A823FCF00000000000012AC
+t1250049999
+s4780
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/bonusSpeedUp.png
+c000000004A823FBE00000000000012F9
+t1250049982
+s4857
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Action.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/AtlasNode.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/AtlasSprite.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/AtlasSpriteManager.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/BearBeware.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/BitmapFontAtlas.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/CDataScanner.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/CDataScanner_Extensions.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/CGPointExtension.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/CJSONDeserializer.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/CJSONScanner.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/CJSONSerializer.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Camera.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/CameraAction.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/CocosNode.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/DataManager.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Director.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/EAGLView.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/EaseAction.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/FileUtils.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Game.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Grabber.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Grid.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Grid3DAction.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/GridAction.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Highscores.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/InstantAction.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Instructions.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/IntervalAction.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Label.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/LabelAtlas.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Layer.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Main-639D4ABBEF65F757.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Menu.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/MenuItem.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/MenuLayer.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/MenuScene.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/NSCharacterSet_Extensions.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/NSDictionary_JSONExtensions.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/NSScanner_Extensions.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/NameEntryViewController.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/PVRTexture.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/ParallaxNode.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/ParticleExamples.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/ParticleSystem.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/PointParticleSystem.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Primitives.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/QuadParticleSystem.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/RockExplosion.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Scene.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Scheduler.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/ScoreServerPost.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/ScoreServerRequest.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/SlidingMessageViewController.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Sprite.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/TGAlib.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Target.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Texture2D.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/TextureAtlas.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/TextureMgr.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/TextureNode.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/TileMapAtlas.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/TiledGridAction.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/TouchDispatcher.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/TouchHandler.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/TransformUtils.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Transition.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/TwitterRequest.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/UIColor-OpenGL.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/WebViewController.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/chipmunk.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cocos2d.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cocoslive.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cpArbiter.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cpArray.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cpBB.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cpBody.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cpCollision.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cpHashSet.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cpJoint.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cpPolyShape.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cpShape.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cpSpace.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cpSpaceHash.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cpVect.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/glu.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/main-B9843B6026D6EFA4.o
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app.dSYM
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/BearBeware
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/CMakeLists.txt
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/Default.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/Illegal.wav
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/Info.plist
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/NameEntryViewController.nib
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/PkgInfo
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/WebViewController.nib
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/back_button.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/ball-1.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/ball-2.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/bearbeware_instructions.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/bearbeware_menu.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/bitmapFont.fnt
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/bitmapFont.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/bonusLife.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/bonusShield.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/bonusSpeedDown.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/bonusSpeedUp.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/changePlayerButton.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/fanfare1.wav
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/fire.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/honey_pot.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/honey_pot1.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/honey_pot2.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/honey_pot3.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/icon.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/instructions_button.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/march.mp3
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/menu.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/playAgainButton.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/play_button.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/scoreBackground.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/scores_button.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/slurp.wav
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/sprites.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/tweetScore.png
+t2
+s0
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/cocoslive.h
+c000000004A8C5AD00000000000000286
+t1250712272
+s646
+i"ScoreServerPost.h"
+i"ScoreServerRequest.h"
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/cocoslive.m
+c000000004A5CB27500000000000001E6
+t1247588981
+s486
+i<UIKit/UIKit.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/fire.png
+c000000004A7E8B5D0000000000001336
+t1249807197
+s4918
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/honey_pot.png
+c000000004A7FAFD400000000000006A2
+t1249882068
+s1698
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/honey_pot1.png
+c000000004A80F399000000000000124E
+t1249964953
+s4686
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/honey_pot2.png
+c000000004A80F3AC0000000000001242
+t1249964972
+s4674
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/honey_pot3.png
+c000000004A80F3C600000000000011B5
+t1249964998
+s4533
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/instructions_button.png
+c000000004A8506BE00000000000031FC
+t1250231998
+s12796
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/libisimulate.a
+c000000004A7D05BC00000000000150E0
+t1249707452
+s86240
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/main.m
+c000000004A4DAED000000000000000F0
+t1246605008
+s240
+i<UIKit/UIKit.h>
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/march.mp3
+c000000004A4AE094000000000003DB1E
+t1246421140
+s252702
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/menu.png
+c000000004A9564E70000000000000BD2
+t1251304679
+s3026
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/play_button.png
+c000000004A808F00000000000000463B
+t1249939200
+s17979
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/scores_button.png
+c000000004A850E9100000000000024C8
+t1250234001
+s9416
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/sounds/Illegal.wav
+c00000000412448B400000000000012AA
+t1092896948
+s4778
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/sounds/fanfare1.wav
+c00000000468069FC0000000000014E52
+t1182820860
+s85586
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/sounds/slurp.wav
+c00000000454E91F00000000000000A9E
+t1162777072
+s2718
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/sprites.png
+c000000004A9DB2B5000000000003B782
+t1251848885
+s243586
+
+N/Users/chris/Documents/iPhone/Old Projects/bearbeware/tweetScore.png
+c000000004A7F86F50000000000002223
+t1249871605
+s8739
+
+N/var/folders/Ey/EysEnMdLGi8l0QQI0eToJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BearBeware_Prefix-bandkmmqfqnynvaumpxcobstclze/BearBeware_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Ey/EysEnMdLGi8l0QQI0eToJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BearBeware_Prefix-fkaletmerbbkapbgpvikvjqfhtnm/BearBeware_Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c000000004AAC18B8000000000000036C
+t1252792504
+s876
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Action.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Action.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/AppDelegate.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/AtlasNode.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/AtlasNode.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/AtlasSprite.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/AtlasSprite.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/AtlasSpriteManager.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/AtlasSpriteManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/BitmapFontAtlas.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/BitmapFontAtlas.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/CDataScanner.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/CDataScanner.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/CDataScanner_Extensions.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/CDataScanner_Extensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/CGPointExtension.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/CGPointExtension.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/CJSONDeserializer.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/CJSONDeserializer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/CJSONScanner.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/CJSONScanner.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/CJSONSerializer.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/CJSONSerializer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Camera.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Camera.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/CameraAction.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/CameraAction.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/CocosNode.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/CocosNode.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/DataManager.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/DataManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Director.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Director.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/EAGLView.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/EAGLView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/EaseAction.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/EaseAction.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/FileUtils.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/FileUtils.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Game.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/Game.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Grabber.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Grabber.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Grid.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Grid.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Grid3DAction.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Grid3DAction.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/GridAction.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/GridAction.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Highscores.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/Highscores.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/InstantAction.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/InstantAction.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Instructions.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/Instructions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/IntervalAction.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/IntervalAction.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Label.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Label.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/LabelAtlas.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/LabelAtlas.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Layer.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Layer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Main-639D4ABBEF65F757.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/Main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Menu.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Menu.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/MenuItem.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/MenuItem.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/MenuLayer.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/MenuLayer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/MenuScene.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/MenuScene.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/NSCharacterSet_Extensions.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/NSCharacterSet_Extensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/NSDictionary_JSONExtensions.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/NSDictionary_JSONExtensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/NSScanner_Extensions.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/NSScanner_Extensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/NameEntryViewController.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/NameEntryViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/PVRTexture.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/PVRTexture.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/ParallaxNode.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/ParallaxNode.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/ParticleExamples.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/ParticleExamples.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/ParticleSystem.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/ParticleSystem.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/PointParticleSystem.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/PointParticleSystem.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Primitives.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Primitives.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/QuadParticleSystem.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/QuadParticleSystem.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/RockExplosion.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/RockExplosion.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Scene.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Scene.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Scheduler.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Scheduler.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/ScoreServerPost.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/ScoreServerPost.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/ScoreServerRequest.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/ScoreServerRequest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/SlidingMessageViewController.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/SlidingMessageViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Sprite.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Sprite.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/TGAlib.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/TGAlib.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Target.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/Target.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Texture2D.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/Texture2D.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/TextureAtlas.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/TextureAtlas.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/TextureMgr.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/TextureMgr.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/TextureNode.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/TextureNode.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/TileMapAtlas.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/TileMapAtlas.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/TiledGridAction.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/TiledGridAction.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/TouchDispatcher.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/TouchDispatcher.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/TouchHandler.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/TouchHandler.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/TransformUtils.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/TransformUtils.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/Transition.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Transition.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/TwitterRequest.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/TwitterRequest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/UIColor-OpenGL.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/UIColor-OpenGL.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/WebViewController.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/WebViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/chipmunk.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/chipmunk.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cocos2d.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/cocos2d.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cocoslive.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/cocoslive.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cpArbiter.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpArbiter.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cpArray.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpArray.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cpBB.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpBB.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cpBody.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpBody.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cpCollision.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpCollision.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cpHashSet.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpHashSet.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cpJoint.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpJoint.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cpPolyShape.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpPolyShape.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cpShape.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpShape.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cpSpace.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpSpace.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cpSpaceHash.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpSpaceHash.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/cpVect.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Chipmunk/src/cpVect.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/glu.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Support/cocos2d/Support/glu.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BearBeware.build/Release-iphonesimulator/BearBeware.build/Objects-normal/i386/main-B9843B6026D6EFA4.o "/Users/chris/Documents/iPhone/Old Projects/bearbeware/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/NameEntryViewController.xib"
+r0
+
+CCompileXIB "/Users/chris/Documents/iPhone/Old Projects/bearbeware/Classes/WebViewController.xib"
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/CMakeLists.txt Chipmunk/src/CMakeLists.txt
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/Default.png Images/Default.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/Illegal.wav sounds/Illegal.wav
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/back_button.png back_button.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/ball-1.png ball-1.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/ball-2.png ball-2.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/bearbeware_instructions.png bearbeware_instructions.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/bearbeware_menu.png bearbeware_menu.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/bitmapFont.fnt Images/bitmapFont.fnt
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/bitmapFont.png Images/bitmapFont.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/bonusLife.png bonusLife.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/bonusShield.png bonusShield.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/bonusSpeedDown.png bonusSpeedDown.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/bonusSpeedUp.png bonusSpeedUp.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/changePlayerButton.png Images/changePlayerButton.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/fanfare1.wav sounds/fanfare1.wav
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/fire.png fire.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/honey_pot.png honey_pot.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/honey_pot1.png honey_pot1.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/honey_pot2.png honey_pot2.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/honey_pot3.png honey_pot3.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/icon.png Images/icon.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/instructions_button.png instructions_button.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/march.mp3 march.mp3
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/menu.png menu.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/playAgainButton.png Images/playAgainButton.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/play_button.png play_button.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/scoreBackground.png Images/scoreBackground.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/scores_button.png scores_button.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/slurp.wav sounds/slurp.wav
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/sprites.png sprites.png
+r0
+
+CCpResource build/Release-iphonesimulator/BearBeware.app/tweetScore.png tweetScore.png
+r0
+
+CGenerateDSYMFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app.dSYM" "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/BearBeware"
+r0
+
+CLd "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/BearBeware" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app/Info.plist" Info.plist
+r0
+
+CProcessPCH /var/folders/Ey/EysEnMdLGi8l0QQI0eToJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BearBeware_Prefix-bandkmmqfqnynvaumpxcobstclze/BearBeware_Prefix.pch.gch BearBeware_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Ey/EysEnMdLGi8l0QQI0eToJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BearBeware_Prefix-fkaletmerbbkapbgpvikvjqfhtnm/BearBeware_Prefix.pch.gch BearBeware_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/chris/Documents/iPhone/Old Projects/bearbeware/build/Release-iphonesimulator/BearBeware.app"
+r0
+
