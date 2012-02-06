@@ -27,7 +27,7 @@
 	
 	if (self)
 	{
-		Sprite *back = [[Sprite alloc] initWithFile:@"bearbeware_instructions.png"];
+		CCSprite *back = [[CCSprite alloc] initWithFile:@"bearbeware_instructions.png"];
 		self.background = back;
 		[back release];
 		
@@ -35,9 +35,9 @@
 		
 		[self addChild:background];
 		
-		MenuItem *backButton = [MenuItemImage itemFromNormalImage:@"back_button.png" selectedImage:@"back_button.png" target:self selector:@selector(back:)];
+		CCMenuItem *backButton = [CCMenuItemImage itemFromNormalImage:@"back_button.png" selectedImage:@"back_button.png" target:self selector:@selector(back:)];
 		backButton.scale = .5;
-		menu = [Menu menuWithItems:backButton,  nil];
+		menu = [CCMenu menuWithItems:backButton,  nil];
 		[menu alignItemsVerticallyWithPadding:0.0];
 		menu.position = ccp(160,15);
 		
@@ -49,9 +49,8 @@
 - (void) back:(id) sender
 {
 	MenuScene *scene=[[MenuScene node] init];
-	//Scene *scene = [[Scene node] addChild:[MenuLayer node] z:0];
 
-    [[Director sharedDirector] pushScene:[FadeTransition transitionWithDuration:.3 scene:scene]];
+    [[CCDirector sharedDirector] pushScene:[CCTransitionFade transitionWithDuration:.3 scene:scene]];
 	}
 
 

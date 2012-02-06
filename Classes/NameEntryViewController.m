@@ -32,7 +32,7 @@
 {
 	if (self = [super initWithNibName:@"NameEntryViewController" bundle:nibBundleOrNil])
 	{
-		self.dataManager = [DataManager sharedManager];
+		self.dataManager = [DataManager sharedDataManager];
 	}
 	
 	return self;
@@ -86,10 +86,9 @@
 	[[NSNotificationCenter defaultCenter] postNotificationName:@"removeNameEntry" object:@""];
 	Highscores *highscores = [[Highscores alloc] initWithScore:dataManager.score];
 	
-	Scene *scene = [[Scene node] addChild:highscores z:0];
-	[[Director sharedDirector] replaceScene:[FadeTransition transitionWithDuration:1 scene:scene withColorRGB:0xffffff]];
-	
-	
+	CCScene *scene = [CCScene node];
+    [scene addChild:highscores z:0];
+	[[CCDirector sharedDirector] replaceScene:[CCTransitionFade transitionWithDuration:1 scene:scene withColor:ccc3(255, 255, 255)]];
 }
 
 -(void) scorePostFail: (id) sender

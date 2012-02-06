@@ -6,27 +6,23 @@
 
 - (void)applicationDidFinishLaunching:(UIApplication *)application {
 
-	[[UIApplication sharedApplication] setStatusBarHidden:YES animated:YES];
+	[[UIApplication sharedApplication] setStatusBarHidden:YES withAnimation:UIStatusBarAnimationSlide];
 	self.notifyCenter = [NSNotificationCenter defaultCenter];
 	[notifyCenter addObserver:self selector:@selector(trackNotifications:) name:nil object:nil];
 	
 	window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
-//	[window setUserInteractionEnabled:YES];
-//	[window setMultipleTouchEnabled:YES];	
 
-	[[Director sharedDirector] setPixelFormat:kRGBA8];
-	[[Director sharedDirector] attachInWindow:window];
-//	[[Director sharedDirector] setDisplayFPS:YES];
-	[[Director sharedDirector] setAnimationInterval:1.0/kFPS];
+//	[[CCDirector sharedDirector] setDisplayFPS:YES];
+	[[CCDirector sharedDirector] setAnimationInterval:1.0/kFPS];
 
-	[Texture2D setDefaultAlphaPixelFormat:kTexture2DPixelFormat_RGBA8888]; 
+	[CCTexture2D setDefaultAlphaPixelFormat:kCCTexture2DPixelFormat_RGBA8888]; 
 	
 	[window makeKeyAndVisible];
 
 	/*Scene *scene = [[Scene node] addChild:[Game node] z:0];
 	 */
 	MenuScene* scene =[MenuScene node];
-	[[Director sharedDirector] runWithScene: scene];
+	[[CCDirector sharedDirector] runWithScene: scene];
 	SlidingMessageViewController *msgVC = [[SlidingMessageViewController alloc] initWithTitle:@"Welcome to Bear Beware" message:@"Press Play!"];   
 	[window addSubview:msgVC.view];
 	
@@ -45,19 +41,19 @@
 
 
 - (void)applicationWillResignActive:(UIApplication*)application {
-	[[Director sharedDirector] pause];
+	[[CCDirector sharedDirector] pause];
 }
 
 - (void)applicationDidBecomeActive:(UIApplication*)application {
-	[[Director sharedDirector] resume];
+	[[CCDirector sharedDirector] resume];
 }
 
 - (void)applicationDidReceiveMemoryWarning:(UIApplication*)application {
-	[[TextureMgr sharedTextureMgr] removeAllTextures];
+	[[CCTextureCache sharedTextureCache] removeAllTextures];
 }
 
 - (void)applicationSignificantTimeChange:(UIApplication*)application {
-	[[Director sharedDirector] setNextDeltaTimeZero:YES];
+	[[CCDirector sharedDirector] setNextDeltaTimeZero:YES];
 }
 
 - (void) trackNotifications: (NSNotification *) notification
@@ -117,18 +113,18 @@
 
 -(void)animDone:(NSString*) animationID finished:(BOOL) finished context:(void*) context
 {	
-	[[Director sharedDirector] resume];
+	[[CCDirector sharedDirector] resume];
 }
 
 - (void) showUIViewController:(UIViewController *) controller
 {
-	[[Director sharedDirector] pause];
+	[[CCDirector sharedDirector] pause];
 	
 	[UIView beginAnimations:nil context:NULL];
 	[UIView setAnimationDuration:.5];
-	[UIView setAnimationTransition:UIViewAnimationTransitionCurlUp forView:[[Director sharedDirector] openGLView] cache:YES];
+	[UIView setAnimationTransition:UIViewAnimationTransitionCurlUp forView:[[CCDirector sharedDirector] openGLView] cache:YES];
 	
-	[[[Director sharedDirector] openGLView] addSubview:controller.view];
+	[[[CCDirector sharedDirector] openGLView] addSubview:controller.view];
 	
 	[UIView commitAnimations];
 }
@@ -140,7 +136,7 @@
 	[UIView setAnimationDelegate:self];
 	[UIView setAnimationDidStopSelector:@selector(animDone:finished:context:)];
 	
-	[UIView setAnimationTransition:UIViewAnimationTransitionCurlDown forView:[[Director sharedDirector] openGLView] cache:YES];
+	[UIView setAnimationTransition:UIViewAnimationTransitionCurlDown forView:[[CCDirector sharedDirector] openGLView] cache:YES];
 	
 	[controller.view removeFromSuperview];
 	

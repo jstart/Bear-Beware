@@ -1,7 +1,7 @@
 #import "cocos2d.h"
 #import "Main.h"
 #import "chipmunk.h"
-#import "Target.h"
+#import "BeeObstacle.h"
 #import <AudioToolbox/AudioToolbox.h>
 #import <AVFoundation/AVFoundation.h>
 #import "AppDelegate.h"
@@ -20,12 +20,12 @@
 	NSMutableArray *pots;
 	NSMutableArray *bonus;
 	
-	Label *messageLabel;
+	CCLabelTTF *messageLabel;
 	
-	Target *b;
-	Target *speedUp;
-	Target *speedDown;
-	Target *life;
+	BeeObstacle *b;
+	BeeObstacle *speedUp;
+	BeeObstacle *speedDown;
+	BeeObstacle *life;
 	
 	BOOL hit;
 	BOOL catch;
@@ -65,10 +65,10 @@
 @property (nonatomic, retain) NSMutableArray *pots;
 @property (nonatomic, retain) NSMutableArray *bonus;
 
-@property (nonatomic, retain) Target *b;
-@property (nonatomic, retain) Target *speedUp;
-@property (nonatomic, retain) Target *speedDown;
-@property (nonatomic, retain) Target *life;
+@property (nonatomic, retain) BeeObstacle *b;
+@property (nonatomic, retain) BeeObstacle *speedUp;
+@property (nonatomic, retain) BeeObstacle *speedDown;
+@property (nonatomic, retain) BeeObstacle *life;
 
 @property (readwrite) BOOL hit;
 @property (readwrite) BOOL catch;
@@ -77,6 +77,6 @@
 @property (readwrite) BOOL catchLife;
 @property (readwrite) BOOL catchShield;
 
-@property (nonatomic,retain) Label *messageLabel;
+@property (nonatomic,retain)   CCLabelTTF *messageLabel;
 
 @end

@@ -4,45 +4,28 @@
 //
 //
 
-#import "RockExplosion.h"
-#import "TextureMgr.h"
-#import "Director.h"
+#import "CustomParticleEffect.h"
+#import "CCTextureCache.h"
 #import "Cocos2d.h"
 
 
-@implementation RockExplosion
+@implementation CustomParticleEffect
 -(id) init
 {
 	return [self initWithTotalParticles:400];
 }
 
--(id) initWithTotalParticles:(int)p
+-(id) initWithTotalParticles:(NSUInteger)p
 {
 	if( !(self=[super initWithTotalParticles:p]) )
 		return nil;
 	
 	// duration
 	duration = 0.1f;
-	
-	// gravity
-	gravity.x = 10;
-	gravity.y = 10;
-	
+
 	// angle
 	angle = 90;
 	angleVar = 360;
-	
-	// speed of particles
-	speed = 200;
-	speedVar = 40;
-	
-	// radial
-	radialAccel = 350;
-	radialAccelVar = 350;
-	
-	// tagential
-	tangentialAccel = 5;
-	tangentialAccelVar = 5;
 	
 	// emitter position
 	//position.x = 160;
@@ -79,10 +62,7 @@
 	endColorVar.b = 0.0f;
 	endColorVar.a = 0.5f;
 	
-	self.texture = [[TextureMgr sharedTextureMgr] addImage: @"ball-1.png"];
-	
-	// additive
-	blendAdditive = NO;
+	self.texture = [[CCTextureCache sharedTextureCache] addImage:@"ball-1.png"];
 	
 	return self;
 }

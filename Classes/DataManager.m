@@ -72,58 +72,6 @@
 /////////////////////////////////////// Singleton ///////////////////////////////////////////
 /////////////////////////////////////////////////////////////////////////////////////////////
 
-static DataManager *sharedDataManager = nil;
-
-+ (DataManager *) sharedManager
-{
-    @synchronized(self)
-	{
-        if (sharedDataManager == nil)
-		{
-            [[self alloc] init];
-        }
-    }
-	
-    return sharedDataManager;
-}
-
-+ (id)allocWithZone:(NSZone *)zone
-{
-    @synchronized(self)
-	{
-        if(sharedDataManager == nil)
-		{
-            sharedDataManager = [super allocWithZone:zone];
-            return sharedDataManager;
-        }
-    }
-	
-    return nil;
-}
-
-- (id)copyWithZone:(NSZone *)zone
-{	
-    return self;
-}
-
-- (id) retain
-{
-    return self;
-}
-
-- (unsigned) retainCount
-{
-    return UINT_MAX;
-}
-
-- (void)release
-{
-	
-}
-
-- (id) autorelease
-{
-    return self;
-}
+SYNTHESIZE_SINGLETON_FOR_CLASS(DataManager)
 
 @end

@@ -7,29 +7,23 @@
 //
 
 #import "cocos2d.h"
-#import "Scene.h"
 
-@interface MenuLayer : Layer {
-    Menu *menu;
-	Sprite *background;
-    
+@interface MenuLayer : CCLayer {
+    CCMenu *menu;
+	CCSprite *background;
 }
+@property (nonatomic, retain) CCMenu *menu;
+@property (nonatomic, retain) CCSprite *background;
 
-@property (nonatomic, retain) Sprite *background;
-
-@property (nonatomic, retain) Menu *menu;
 
 @end
 
 
-@interface MenuScene : Scene {
+@interface MenuScene : CCScene {
 	MenuLayer *menuLayer;
-
 }
 
 @property (nonatomic, retain) MenuLayer *menuLayer;
-
-
 
 @end
 

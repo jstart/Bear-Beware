@@ -64,7 +64,7 @@
 	
 	if (self)
 	{
-		Sprite *back = [[Sprite alloc] initWithFile:@"bearbeware_menu.png"];
+		CCSprite *back = [[CCSprite alloc] initWithFile:@"bearbeware_menu.png"];
 		self.background = back;
 		[back release];
 		
@@ -72,15 +72,11 @@
 		
 		[self addChild:background];
 		
-		MenuItem *play = [MenuItemImage itemFromNormalImage:@"play_button.png" selectedImage:@"play_button.png" target:self selector:@selector(play:)];
-		MenuItem *about = [MenuItemImage itemFromNormalImage:@"instructions_button.png" selectedImage:@"instructions_button.png" target:self selector:@selector(instructions:)];
-		MenuItem *scores = [MenuItemImage itemFromNormalImage:@"scores_button.png" selectedImage:@"scores_button.png" target:self selector:@selector(scores:)];
-		/*ParticleSystem* p = [ParticleFlower node];
-         //p.size = 10;
-         p.totalParticles = 400;
-         p.position = play.transformAnchor;
-         [play addChild:p];*/
-		menu = [Menu menuWithItems:play, about, scores,nil]; //scores,  nil];
+		CCMenuItem *play = [CCMenuItemImage itemFromNormalImage:@"play_button.png" selectedImage:@"play_button.png" target:self selector:@selector(play:)];
+		CCMenuItem *about = [CCMenuItemImage itemFromNormalImage:@"instructions_button.png" selectedImage:@"instructions_button.png" target:self selector:@selector(instructions:)];
+		CCMenuItem *scores = [CCMenuItemImage itemFromNormalImage:@"scores_button.png" selectedImage:@"scores_button.png" target:self selector:@selector(scores:)];
+
+		menu = [CCMenu menuWithItems:play, about, scores,nil]; //scores,  nil];
         [menu alignItemsVerticallyWithPadding:10.0];
         [self addChild:menu];
 	}
@@ -89,15 +85,17 @@
 }
 - (void) play:(id) sender
 {
-	Scene *scene = [[Scene node] addChild:[Game node] z:0];
+	CCScene *scene = [CCScene node];
+    [scene addChild:[Game node] z:0];
 	
-    [[Director sharedDirector] replaceScene:[FadeTransition transitionWithDuration:.3 scene:scene]];
+    [[CCDirector sharedDirector] replaceScene:[CCTransitionFade transitionWithDuration:.3 scene:scene]];
 }
 - (void) instructions:(id) sender
 {
-	Scene *scene = [[Scene node] addChild:[Instructions node] z:0];
+	CCScene *scene = [CCScene node];
+    [scene addChild:[Instructions node] z:0];
 	
-    [[Director sharedDirector] replaceScene:[FadeTransition transitionWithDuration:.3 scene:scene]];}
+    [[CCDirector sharedDirector] replaceScene:[CCTransitionFade transitionWithDuration:.3 scene:scene]];}
 
 - (void) scores:(id) sender
 {

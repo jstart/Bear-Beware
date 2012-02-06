@@ -2,10 +2,10 @@
 #import "Main.h"
 #import "Highscores.h"
 #import "chipmunk.h"
-#import "RockExplosion.h"
+#import "CustomParticleEffect.h"
 
 
-#import "Target.h"
+#import "BeeObstacle.h"
 #include <AudioToolbox/AudioToolbox.h>
 
 @interface Game (Private)
@@ -58,24 +58,24 @@ enum {
 	catchShield=NO;
 	reachedScore=NO;
 	
-	self.dataManager = [DataManager sharedManager];
+	self.dataManager = [DataManager sharedDataManager];
 	
 	AtlasSpriteManager *spriteManager = (AtlasSpriteManager*)[self getChildByTag:kSpriteManager];
 	
 	AtlasSprite *bear = [AtlasSprite spriteWithRect:CGRectMake (620,0,85,70) spriteManager:spriteManager];
 	[spriteManager addChild:bear z:4 tag:kBear];
 	
-	BitmapFontAtlas *scoreLabel = [BitmapFontAtlas bitmapFontAtlasWithString:@"0" fntFile:@"bitmapFont.fnt"];
+	CCLabelBMFont *scoreLabel = [CCLabelBMFont labelWithString:@"0" fntFile:@"bitmapFont.fnt"];
 	[self addChild:scoreLabel z:5 tag:kScoreLabel];
-	BitmapFontAtlas *livesLabel = [BitmapFontAtlas bitmapFontAtlasWithString:@"4" fntFile:@"bitmapFont.fnt"];
+	CCLabelBMFont *livesLabel = [CCLabelBMFont labelWithString:@"4" fntFile:@"bitmapFont.fnt"];
 	[self addChild:livesLabel z:5 tag:kLivesLabel];
 	scoreLabel.position = ccp(160,430);
-	Sprite* scoreBackground = [Sprite spriteWithFile:@"scoreBackground.png"];
+	CCSprite* scoreBackground = [CCSprite spriteWithFile:@"scoreBackground.png"];
 	scoreBackground.position = ccp(155,435);
 	[self addChild:scoreBackground];
 	livesLabel.position =ccp(270,430);
 	[livesLabel setRGB:0 :0 :0];
-	messageLabel = [Label labelWithString:@"lives" fontName:@"Marker Felt" fontSize:28];
+	messageLabel = [CCLabelTTF labelWithString:@"lives" fontName:@"Marker Felt" fontSize:28];
 	[messageLabel setRGB:0 :0 :0];
 	messageLabel.position = ccp(265,410);
 	[self addChild:messageLabel];
@@ -93,14 +93,14 @@ enum {
 	targets = [[NSMutableArray alloc] init];
 	for(int i = 0; i < 3; i++)
 	{
-		Target *t = [[Target alloc] initWithCPBody:[self addSpriteNamed:@"ball-1.png" x:-350 y:-350 type:kColl_Bee]];
+		BeeObstacle *t = [[BeeObstacle alloc] initWithCPBody:[self addSpriteNamed:@"ball-1.png" x:-350 y:-350 type:kColl_Bee]];
 		[targets addObject: t];
 		[t release];
 	}
 	pots = [[NSMutableArray alloc] init];
 	for(int i = 0; i < 15; i++)
 	{int random=arc4random()%4;
-		Target *p = [Target alloc];
+		BeeObstacle *p = [BeeObstacle alloc];
 		switch (random) {
 			case 0:
 				[p initWithCPBody:[self addSpriteNamed:@"honey_pot.png" x:-350 y:-350 type:kColl_Pot]];break;
@@ -118,11 +118,11 @@ enum {
 		[p release];
 	}
 
-	speedUp = [[Target alloc] initWithCPBody:[self addSpriteNamed:@"bonusSpeedUp.png" x:-850 y:-450 type:kColl_SpeedUp]];
-	speedDown = [[Target alloc] initWithCPBody:[self addSpriteNamed:@"bonusSpeedDown.png" x:-850 y:-400 type:kColl_SpeedDown]];
-	life = [[Target alloc] initWithCPBody:[self addSpriteNamed:@"bonusLife.png" x:-850 y:-550 type:kColl_Life]];
+	speedUp = [[BeeObstacle alloc] initWithCPBody:[self addSpriteNamed:@"bonusSpeedUp.png" x:-850 y:-450 type:kColl_SpeedUp]];
+	speedDown = [[BeeObstacle alloc] initWithCPBody:[self addSpriteNamed:@"bonusSpeedDown.png" x:-850 y:-400 type:kColl_SpeedDown]];
+	life = [[BeeObstacle alloc] initWithCPBody:[self addSpriteNamed:@"bonusLife.png" x:-850 y:-550 type:kColl_Life]];
 	//shield = [[Target alloc] initWithCPBody:[self addSpriteNamed:@"bonusShield.png" x:-850 y:-500 type:kColl_Shield]];	
-	b = [[Target alloc] initWithCPBody:[self makeBirdX:160 y:20]];
+	b = [[BeeObstacle alloc] initWithCPBody:[self makeBirdX:160 y:20]];
 	
 	isTouchEnabled = YES;
 	isAccelerometerEnabled = YES;
@@ -142,16 +142,9 @@ static int bulletCollision(cpShape *a, cpShape *b, cpContact *contacts, int numC
 	
 	Game *game = (Game*) data;
 	AudioServicesPlaySystemSound (game.hitSoundObject);
-	//printf("collide%D,%D",contacts->p.x,contacts->p.y );
-		//a->body->p = cpv(800,800);
-		b->body->p = cpv(-800,-800);
+    b->body->p = cpv(-800,-800);
 	[game createExplosionX:contacts->p.x y:contacts->p.y];
-	/*id a1= [ScaleBy actionWithDuration:.25 scale:.5];
-	id a2= [ScaleBy actionWithDuration:.25 scale:1.0];
-	id a3= [Sequence actions:a1,a2,nil];
-	AtlasSpriteManager *spriteManager = (AtlasSpriteManager*)[game getChildByTag:kSpriteManager];
-	AtlasSprite *bird = (AtlasSprite*)[spriteManager getChildByTag:kBear];
-	[bird runAction:a3];*/
+
 	game.hit=YES;
 	return 0;
 }
@@ -163,9 +156,9 @@ AudioServicesPlaySystemSound (game.slurpSoundObject);
 	//a->body->p = cpv(800,800);
 	b->body->p = cpv(-800,-800);
 	//[game createExplosionX:contacts->p.x y:contacts->p.y];
-	id a1= [RotateBy actionWithDuration:.5 angle:360];
-	AtlasSpriteManager *spriteManager = (AtlasSpriteManager*)[game getChildByTag:kSpriteManager];
-	AtlasSprite *bird = (AtlasSprite*)[spriteManager getChildByTag:kBear];
+	id a1= [CCRotateBy actionWithDuration:.5 angle:360];
+	CCSpriteSheet *spriteManager = (CCSpriteSheet*)[game getChildByTag:kSpriteManager];
+	CCSprite *bird = (CCSprite*)[spriteManager getChildByTag:kBear];
 	[bird runAction:a1];
 	game.catch=YES;
 	return 0;
@@ -309,7 +302,7 @@ switch (random) {
 -(void) step1sec: (ccTime) delta
 {
 	if(gameSuspended) return;
-	self.checkForGameOver;
+	[self checkForGameOver];
 	NSString *scoreStr = [NSString stringWithFormat:@"%d",dataManager.score];
 	BitmapFontAtlas *scoreLabel = (BitmapFontAtlas*)[self getChildByTag:kScoreLabel];
 	[scoreLabel setString:scoreStr];
@@ -320,7 +313,7 @@ switch (random) {
 		int random=arc4random()%2;
 		switch (random) {
 			case 0:
-				for(Target *t in targets)
+				for(BeeObstacle *t in targets)
 				{printf("bee shoot\n");
 					if([t ready])
 				{
@@ -334,7 +327,7 @@ switch (random) {
 				break;
 			case 1:
 
-				for(Target *p in pots)
+				for(BeeObstacle *p in pots)
 				{printf("pot shoot\n");
 					if([p ready])
 					{
@@ -525,7 +518,7 @@ switch (random) {
 
 -(void) createExplosionX: (float) x y: (float) y
 {
-	ParticleSystem *emitter = [RockExplosion node];
+	ParticleSystem *emitter = [CustomParticleEffect node];
 	emitter.position = cpv(x,y);
 	[self addChild: emitter];
 }
@@ -575,7 +568,7 @@ eachShape(void *ptr, void* unused)
 	int potCounter=0;
 	//label = [Label labelWithString:loseString fontName:@"Marker Felt" fontSize:14];
 	//[self addChild:label];
-	for(Target *t in targets)
+	for(BeeObstacle *t in targets)
 	{
 		if([t getY] < -20)
 		{
@@ -584,7 +577,7 @@ eachShape(void *ptr, void* unused)
 			[t setReady: YES];
 		}
 	}
-	for(Target *p in pots)
+	for(BeeObstacle *p in pots)
 	{
 		if([p getY] < -20)
 		{
@@ -593,7 +586,7 @@ eachShape(void *ptr, void* unused)
 			[p setReady: YES];
 		}
 	}
-	for(Target *t in targets)
+	for(BeeObstacle *t in targets)
 	{
 		if((![t ready]) && [t getY] < -20)
 		{
@@ -604,10 +597,10 @@ eachShape(void *ptr, void* unused)
 		if(beeCounter >= 3)
 		{
 			printf("beeCounter >=3\n");
-			for(Target *t in targets)
+			for(BeeObstacle *t in targets)
 			{
 				[t setReady: YES];
-				for(Target *t in targets)
+				for(BeeObstacle *t in targets)
 				{printf("bee shoot\n");
 					if([t ready])
 					{
@@ -622,7 +615,7 @@ eachShape(void *ptr, void* unused)
 			}
 		}
 	}
-	for(Target *p in pots)
+	for(BeeObstacle *p in pots)
 	{
 		if(![p ready]) //&& [p getY] < -20)
 		{
@@ -634,7 +627,7 @@ eachShape(void *ptr, void* unused)
 		if(potCounter >= 15)
 		{
 			printf("potCounter >=15\n");
-			for(Target *p in pots)
+			for(BeeObstacle *p in pots)
 			{
 				[p setReady: YES];
 			}
@@ -669,8 +662,7 @@ eachShape(void *ptr, void* unused)
 	AtlasSpriteManager *spriteManager = (AtlasSpriteManager*)[self getChildByTag:kSpriteManager];
 	
 	int t;
-		t = kCloudsStartTag;
-		for(t; t < kCloudsStartTag + kNumClouds; t++) {
+		for(t = kCloudsStartTag; t < kCloudsStartTag + kNumClouds; t++) {
 			AtlasSprite *cloud = (AtlasSprite*)[spriteManager getChildByTag:t];
 			CGPoint pos = cloud.position;
 			pos.y -= 1

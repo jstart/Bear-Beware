@@ -9,14 +9,11 @@
 #import "cocos2d.h"
 
 
-@interface Instructions : Layer {
-Menu *menu;
-	Sprite *background;
-
+@interface Instructions : CCLayer {
+    CCMenu *menu;
+	CCSprite *background;
 }
-
-@property (nonatomic, retain) Sprite *background;
-
-@property (nonatomic, retain) Menu *menu;
+@property (nonatomic, retain) CCMenu *menu;
+@property (nonatomic, retain) CCSprite *background;
 
 @end

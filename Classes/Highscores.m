@@ -31,7 +31,7 @@
 	NSLog(@"currentScore = %d",currentScore);
 	
 	[self loadCurrentPlayer];
-	NSLog(currentPlayer);
+	NSLog([currentPlayer description]);
 	[self loadHighscores];
 	[self updateHighscores];
 	if(currentScorePosition >= 0) {
@@ -51,18 +51,18 @@
 		NSString *player = [highscore objectAtIndex:0];
 		int score = [[highscore objectAtIndex:1] intValue];
 		
-		Label *label1 = [Label labelWithString:[NSString stringWithFormat:@"%d",(count+1)] dimensions:CGSizeMake(30,40) alignment:UITextAlignmentRight fontName:@"Arial" fontSize:14];
+		CCLabelTTF *label1 = [CCLabelTTF labelWithString:[NSString stringWithFormat:@"%d",(count+1)] dimensions:CGSizeMake(30,40) alignment:UITextAlignmentRight fontName:@"Arial" fontSize:14];
 		[self addChild:label1 z:5];
 		[label1 setRGB:0 :0 :0];
 		[label1 setOpacity:200];
 		label1.position = ccp(15,start_y-count*step-2.0f);
 		
-		Label *label2 = [Label labelWithString:player dimensions:CGSizeMake(240,40) alignment:UITextAlignmentLeft fontName:@"Arial" fontSize:16];
+		CCLabelTTF *label2 = [CCLabelTTF labelWithString:player dimensions:CGSizeMake(240,40) alignment:UITextAlignmentLeft fontName:@"Arial" fontSize:16];
 		[self addChild:label2 z:5];
 		[label2 setRGB:0 :0 :0];
 		label2.position = ccp(160,start_y-count*step);
 
-		Label *label3 = [Label labelWithString:[NSString stringWithFormat:@"%d",score] dimensions:CGSizeMake(290,40) alignment:UITextAlignmentRight fontName:@"Arial" fontSize:16];
+		CCLabelTTF *label3 = [CCLabelTTF labelWithString:[NSString stringWithFormat:@"%d",score] dimensions:CGSizeMake(290,40) alignment:UITextAlignmentRight fontName:@"Arial" fontSize:16];
 		[self addChild:label3 z:5];
 		[label3 setRGB:0 :0 :0];
 		[label3 setOpacity:200];
@@ -72,13 +72,13 @@
 		if(count == 10) break;
 	}
 
-	MenuItem *button1 = [MenuItemImage itemFromNormalImage:@"playAgainButton.png" selectedImage:@"playAgainButton.png" target:self selector:@selector(button1Callback:)];
-	MenuItem *button2 = [MenuItemImage itemFromNormalImage:@"changePlayerButton.png" selectedImage:@"changePlayerButton.png" target:self selector:@selector(button2Callback:)];
-	MenuItem *tweet = [MenuItemImage itemFromNormalImage:@"tweetScore.png" selectedImage:@"tweetScore.png" target:self selector:@selector(button3Callback:)];
-	Menu *menu = [Menu menuWithItems: tweet, button1, button2, nil];
+	CCMenuItem *button1 = [CCMenuItemImage itemFromNormalImage:@"playAgainButton.png" selectedImage:@"playAgainButton.png" target:self selector:@selector(button1Callback:)];
+	CCMenuItem *button2 = [CCMenuItemImage itemFromNormalImage:@"changePlayerButton.png" selectedImage:@"changePlayerButton.png" target:self selector:@selector(button2Callback:)];
+	CCMenuItem *tweet = [CCMenuItemImage itemFromNormalImage:@"tweetScore.png" selectedImage:@"tweetScore.png" target:self selector:@selector(button3Callback:)];
+	CCMenu *menu = [CCMenu menuWithItems: tweet, button1, button2, nil];
 	
-	MenuItem *back_button = [MenuItemImage itemFromNormalImage:@"menu.png" selectedImage:@"menu.png" target:self selector:@selector(back:)];
-	Menu *back = [Menu menuWithItems: back_button, nil];
+	CCMenuItem *back_button = [CCMenuItemImage itemFromNormalImage:@"menu.png" selectedImage:@"menu.png" target:self selector:@selector(back:)];
+	CCMenu *back = [CCMenu menuWithItems: back_button, nil];
 	
 	back.position = ccp(35,35);
 	
@@ -180,9 +180,9 @@
 	
 	NSString *response = [self submitHighScore:currentPlayer score:currentScore url:@"http://trumandesigns.com"];
 	NSLog(@"%@",response);
-	Scene *scene = [[Scene node] addChild:[Game node] z:0];
-	TransitionScene *ts = [FadeTransition transitionWithDuration:0.5f scene:scene withColorRGB:0xffffff];
-	[[Director sharedDirector] replaceScene:ts];
+	CCScene *scene = [[CCScene node] addChild:[Game node] z:0];
+	CCTransitionScene *ts = [CCTransitionFade transitionWithDuration:0.5f scene:scene withColorRGB:0xffffff];
+	[[CCDirector sharedDirector] replaceScene:ts];
 }
 
 - (void)button2Callback:(id)sender {
@@ -295,8 +295,8 @@
 		[highscores addObject:[NSArray arrayWithObjects:@"bearBeware",[NSNumber numberWithInt:0],nil]];
 		[self saveHighscores];
 		Highscores *h = [[Highscores alloc] initWithScore:currentScore];
-		Scene *scene = [[Scene node] addChild:h z:0];
-		[[Director sharedDirector] replaceScene:[FadeTransition transitionWithDuration:1 scene:scene withColorRGB:0xffffff]];
+		CCScene *scene = [[CCScene node] addChild:h z:0];
+		[[CCDirector sharedDirector] replaceScene:[CCTransitionFade transitionWithDuration:1 scene:scene withColor:ccc3(255, 255, 255)]];
 	}
 }
 - (void)tweet {
@@ -309,9 +309,10 @@
 	t.password = currentPassword;
 	[t statuses_update:tweet delegate:self requestSelector:@selector(status_updateCallback:)];
 	
-		Highscores *h = [[Highscores alloc] initWithScore:currentScore];
-		Scene *scene = [[Scene node] addChild:h z:0];
-		[[Director sharedDirector] replaceScene:[FadeTransition transitionWithDuration:1 scene:scene withColorRGB:0xffffff]];
+    Highscores *h = [[Highscores alloc] initWithScore:currentScore];
+    CCScene *scene = [CCScene node];
+    [scene addChild:h z:0];
+    [[CCDirector sharedDirector] replaceScene:[CCTransitionFade transitionWithDuration:1 scene:scene withColor:ccc3(255, 255, 255)]];
 }
 
 - (void)alertView:(UIAlertView *)alertView clickedButtonAtIndex:(NSInteger)buttonIndex {
@@ -329,7 +330,7 @@
 	if (textField == twitterPasswordTextField||twitterUsernameTextField)
 	{
 		[twitterAlert dismissWithClickedButtonIndex:0 animated:YES];
-		self.tweet;
+		[self tweet];
 	}
 	if (textField == changePlayerTextField)
 	{
@@ -342,9 +343,8 @@
 - (void) back:(id) sender
 {
 	MenuScene *scene=[[MenuScene node] init];
-	//Scene *scene = [[Scene node] addChild:[MenuLayer node] z:0];
 	
-    [[Director sharedDirector] pushScene:[FadeTransition transitionWithDuration:.3 scene:scene]];
+    [[CCDirector sharedDirector] pushScene:[CCTransitionFade transitionWithDuration:.3 scene:scene]];
 }
 
 -(NSString *) submitHighScore:(NSString *)name score:(float) score url:(NSString *) url {

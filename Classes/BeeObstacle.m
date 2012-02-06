@@ -2,15 +2,11 @@
 //  target.m
 //  GameDemo
 //
-//  Created by Ronald Jett on 4/25/09.
-//  http://morethanmachine.com/macdev
-//	rlj3967@rit.edu
-//
 
-#import "target.h"
+#import "BeeObstacle.h"
 
 
-@implementation Target
+@implementation BeeObstacle
 -(id) initWithCPBody: (cpBody *) bodyIn
 {
 	self = [super init];

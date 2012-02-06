@@ -25,7 +25,7 @@ enum {
 	kNumBonuses
 };
 
-@interface Main : Layer
+@interface Main : CCLayer
 {
 	int currentCloudTag;
 }

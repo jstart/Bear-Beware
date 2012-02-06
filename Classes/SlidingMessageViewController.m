@@ -35,7 +35,7 @@
   [UIView beginAnimations:nil context:NULL];
   [UIView setAnimationDuration:.75];
 
-  frame.origin.y = 480;
+  frame.origin.y = -90;
   self.view.frame = frame;
 
   [UIView commitAnimations];
@@ -59,7 +59,7 @@
   {
     // Notice the view y coordinate is offscreen (480)
     // This hides the view
-    self.view = [[[UIView alloc] initWithFrame:CGRectMake(0, 480, 320, 90)] autorelease];
+    self.view = [[[UIView alloc] initWithFrame:CGRectMake(0, -90, 320, 90)] autorelease];
     [self.view setBackgroundColor:[UIColor blackColor]];
     [self.view setAlpha:.77];
 
@@ -102,7 +102,7 @@
   // A better solution over a hard-coded value would be to
   // determine the size of the title and msg labels and 
   // set this value accordingly
-  frame.origin.y = 390;
+  frame.origin.y = 0;
   self.view.frame = frame;
 
   [UIView commitAnimations];

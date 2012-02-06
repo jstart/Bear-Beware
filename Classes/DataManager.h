@@ -9,6 +9,7 @@
  */
 
 #import <Foundation/Foundation.h>
+#import "SynthesizeSingleton.h"
 
 @interface DataManager : NSObject
 {
@@ -34,6 +35,6 @@
 
 - (BOOL) connectedToNetwork;
 
-+ (DataManager *) sharedManager;
++ (DataManager *) sharedDataManager;
 
 @end

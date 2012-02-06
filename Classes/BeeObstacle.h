@@ -10,7 +10,7 @@
 #import <Foundation/Foundation.h>
 #import "chipmunk.h"
 
-@interface Target : NSObject {
+@interface BeeObstacle : NSObject {
 	cpBody *targetBody;
 	bool ready;
 }
