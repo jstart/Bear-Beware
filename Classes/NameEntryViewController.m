@@ -10,7 +10,6 @@
 
 #import "NameEntryViewController.h"
 #import "DataManager.h"
-#import "cocoslive.h"
 #import "cocos2d.h"
 #import "Highscores.h"
 
@@ -64,7 +63,7 @@
 	
 	cancel_btn.enabled = NO;
 	NSLog(@"%d", dataManager.score);
-	ScoreServerPost *server = [[ScoreServerPost alloc] initWithGameName:@"Bear Beware" gameKey:@"b07a4f9d39e28d23f7d9e2245f89dd70" delegate:self];
+//	ScoreServerPost *server = [[ScoreServerPost alloc] initWithGameName:@"Bear Beware" gameKey:@"b07a4f9d39e28d23f7d9e2245f89dd70" delegate:self];
 	dataManager.playerName = nameField.text;
 	NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
 	
@@ -73,8 +72,8 @@
 	[dict setObject:[NSNumber numberWithInt:dataManager.score] forKey:@"cc_score"];
 	[dict setObject:nameField.text forKey:@"cc_playername"];
 	
-	[server updateScore:dict];
-	[server release];	
+//	[server updateScore:dict];
+//	[server release];	
 }
 
 ////////////////////////////////////////////////////////////////////////////////////////////////
@@ -98,11 +97,11 @@
 	[activityIndicator stopAnimating];
 	
 	NSString *message = nil;
-	tPostStatus status = [sender postStatus];
-	if( status == kPostStatusPostFailed )
-		message = @"Cannot post the score to the server. Retry";
-	else if( status == kPostStatusConnectionFailed )
-		message = @"Internet connection not available. Enable wi-fi / 3g to post your scores to the server";
+//	tPostStatus status = [sender postStatus];
+//	if( status == kPostStatusPostFailed )
+//		message = @"Cannot post the score to the server. Retry";
+//	else if( status == kPostStatusConnectionFailed )
+//		message = @"Internet connection not available. Enable wi-fi / 3g to post your scores to the server";
 	
 	UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Score Post Failed" message:message delegate:nil cancelButtonTitle:nil otherButtonTitles:@"OK", nil];  
 	alert.tag = 0;

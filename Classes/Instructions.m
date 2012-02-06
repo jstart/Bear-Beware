@@ -7,7 +7,6 @@
 //
 
 #import "Instructions.h"
-#import "MenuLayer.h"
 #import "MenuScene.h"
 #import "chipmunk.h"
 @implementation Instructions

@@ -8,7 +8,18 @@
 
 #import "cocos2d.h"
 #import "Scene.h"
-#import "MenuLayer.h"
+
+@interface MenuLayer : Layer {
+    Menu *menu;
+	Sprite *background;
+    
+}
+
+@property (nonatomic, retain) Sprite *background;
+
+@property (nonatomic, retain) Menu *menu;
+
+@end
 
 
 @interface MenuScene : Scene {
@@ -21,3 +32,4 @@
 
 
 @end
+

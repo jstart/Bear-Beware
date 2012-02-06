@@ -62,7 +62,7 @@
 	AtlasSprite *cloud = [AtlasSprite spriteWithRect:rect spriteManager:spriteManager];
 	[spriteManager addChild:cloud z:3 tag:currentCloudTag];
 	
-	cloud.opacity = 128;
+	//cloud.opacity = 128;
 }
 
 - (void)resetClouds {
